@@ -59,4 +59,3 @@ print(data[1,:,::-1,:])
 #21 Sort the temp of the first three days of each month in descending order on the basis of overall average for the whole winter
 print(data[:,:,3:0:-1,:])
 
-#output
